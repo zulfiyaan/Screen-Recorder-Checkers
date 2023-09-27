@@ -19,7 +19,7 @@ This is a recording check script that checks if the user is currently running an
 
 # Notes!
 
-• The .exe will flag any antivirus.
+• The py will flag any antivirus.
 
 • The .py file should never flag anything on any antivirus.
 [VirusTotal](https://www.virustotal.com/gui/file/0c89a677da380ecf53e5455ab3044e744602619b5af9f61bab14aef34cd5aae7?nocache=1)
